@@ -26,6 +26,10 @@ The primary focus of this stage is:
 - Break down missing design flows into new user stories.
 - Finalize edge case handling (e.g., internet error handling).
 - Prepare for prototyping or test planning.
+- Reviewed and detailed user stories (including notes, acceptance criteria, and findings) can be found in the file: Ton Tasks user stories modified.docx
+
+
+
 
 ---
 
